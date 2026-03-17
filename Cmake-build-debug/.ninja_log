@@ -1,0 +1,7 @@
+# ninja log v6
+58	474	7950297902633607	CMakeFiles/rocket_sim.dir/src/physics.cpp.obj	98135224f54584ad
+64	825	7950297902689705	CMakeFiles/rocket_sim.dir/src/telemetry_writer.cpp.obj	c2bc883786a55a0b
+51	883	7950297902570785	CMakeFiles/rocket_sim.dir/src/main.cpp.obj	aacd15f028cb838c
+4	21	7950250385156476	clean	c29afa2e9cabee06
+883	1079	7950297910884784	rocket_sim.exe	152545602f52da7d
+70	476	7950297902750417	CMakeFiles/rocket_sim.dir/src/controller.cpp.obj	8c3d500c80993216

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\rocket_sim.dir\\src\\main.cpp.obj -c C:\\Users\\geoff\\CLionProjects\\rocket-landing-simulator\\src\\main.cpp",
+  "file": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/src/main.cpp",
+  "output": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug/CMakeFiles/rocket_sim.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\rocket_sim.dir\\src\\physics.cpp.obj -c C:\\Users\\geoff\\CLionProjects\\rocket-landing-simulator\\src\\physics.cpp",
+  "file": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/src/physics.cpp",
+  "output": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug/CMakeFiles/rocket_sim.dir/src/physics.cpp.obj"
+},
+{
+  "directory": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\rocket_sim.dir\\src\\telemetry_writer.cpp.obj -c C:\\Users\\geoff\\CLionProjects\\rocket-landing-simulator\\src\\telemetry_writer.cpp",
+  "file": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/src/telemetry_writer.cpp",
+  "output": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug/CMakeFiles/rocket_sim.dir/src/telemetry_writer.cpp.obj"
+},
+{
+  "directory": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\rocket_sim.dir\\src\\controller.cpp.obj -c C:\\Users\\geoff\\CLionProjects\\rocket-landing-simulator\\src\\controller.cpp",
+  "file": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/src/controller.cpp",
+  "output": "C:/Users/geoff/CLionProjects/rocket-landing-simulator/Cmake-build-debug/CMakeFiles/rocket_sim.dir/src/controller.cpp.obj"
+}
+]
